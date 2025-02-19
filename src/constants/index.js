@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
+  address: "Prathipadu , west godavari , Andhra pradesh , India ",
+  phoneNo: "8897193242 ",
   email: "rupas092003@gmail.com",
 };
